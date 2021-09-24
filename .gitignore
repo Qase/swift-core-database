@@ -12,3 +12,5 @@ Package.resolved
 .swiftpm
 
 /*.xcodeproj
+
+.build/
